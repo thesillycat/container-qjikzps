@@ -1,3 +1,15 @@
+# v0.0.2 (Sun Aug 04 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update docker-compose.yml ([@thesillycat](https://github.com/thesillycat))
+
+#### Authors: 1
+
+- [@thesillycat](https://github.com/thesillycat)
+
+---
+
 # v0.0.1 (Sun Aug 04 2024)
 
 :tada: This release contains work from a new contributor! :tada:
